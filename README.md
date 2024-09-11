@@ -1,8 +1,10 @@
 👋 Hi, I’m @FrancescJR  
 
 Please take a look first here:
-- [personal webpage](https://cesc.cool)
+- [personal webpage](https://cesc.cool)  (the code is public in this repository)
 - [blog webpage](https://blog.cesc.cool)
+
+Also please take a look at my work for my own company: [Eniltrex](https://github.com/eniltrexAdmin)
 
 
 If I followed Github Readme Template:
@@ -16,4 +18,7 @@ If I followed Github Readme Template:
 > interviews. (See this github!, see this github! - or my company one EnlitrexAdmin, there's some public repos there too). 
 >
 > 📫 How to reach me, on  [linked In](https://www.linkedin.com/in/francesc-travesa-3a836130/) would be my preferred way.
+
+
+The repositories here are mainly from technical challenges. You can take them or leave them. I am more proud of the work done in Eniltrex.
 
